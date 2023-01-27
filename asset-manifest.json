@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/build-react-clonecoding/static/css/main.5da336ff.css",
+    "main.js": "/build-react-clonecoding/static/js/main.557d4ebf.js",
+    "static/js/787.d08d7b0e.chunk.js": "/build-react-clonecoding/static/js/787.d08d7b0e.chunk.js",
+    "static/media/banner-c.jpg": "/build-react-clonecoding/static/media/banner-c.3cede04b8c3ba1c5988e.jpg",
+    "static/media/banner-d.jpg": "/build-react-clonecoding/static/media/banner-d.d9ef8aa51f73ca47644d.jpg",
+    "static/media/banner-e.jpg": "/build-react-clonecoding/static/media/banner-e.5de7ce7f4ca255941e15.jpg",
+    "static/media/banner-b.jpg": "/build-react-clonecoding/static/media/banner-b.1731fb3ddc49335b74e8.jpg",
+    "static/media/banner-a.jpg": "/build-react-clonecoding/static/media/banner-a.13988fe6450916ba6d57.jpg",
+    "index.html": "/build-react-clonecoding/index.html",
+    "static/media/stop-btn.svg": "/build-react-clonecoding/static/media/stop-btn.975e786d70a30e8a2404.svg",
+    "main.5da336ff.css.map": "/build-react-clonecoding/static/css/main.5da336ff.css.map",
+    "main.557d4ebf.js.map": "/build-react-clonecoding/static/js/main.557d4ebf.js.map",
+    "787.d08d7b0e.chunk.js.map": "/build-react-clonecoding/static/js/787.d08d7b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da336ff.css",
+    "static/js/main.557d4ebf.js"
+  ]
+}
